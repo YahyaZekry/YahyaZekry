@@ -8,7 +8,7 @@
 
 <!-- Daily.dev Card -->
 
-<a href="https://app.daily.dev/yahyazekry"><img src="https://api.daily.dev/devcards/83925365ac5b4943b2302ba622210e22.png?r=tyq" width="300" alt="Yahya Zekry's Dev Card" align="right" /></a>
+<a href="https://app.daily.dev/yahyazekry"><img src="https://api.daily.dev/devcards/83925365ac5b4943b2302ba622210e22.png?r=5hd" width="300" alt="Yahya Zekry's Dev Card" align="right" /></a>
 
 <!-- About me section -->
 <h2 align="left">👨🏻‍💻 About Me</h2>
