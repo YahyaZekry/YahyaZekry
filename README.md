@@ -8,7 +8,7 @@
 
 <!-- Daily.dev Card -->
 
-<a href="https://app.daily.dev/yahyazekry"><img src="https://api.daily.dev/devcards/83925365ac5b4943b2302ba622210e22.png?r=5hd" width="300" alt="Yahya Zekry's Dev Card" align="right" /></a>
+<a href="https://app.daily.dev/yahyazekry"><img src="https://api.daily.dev/devcards/83925365ac5b4943b2302ba622210e22.png?r=ke1" style="width: 35%;height: auto" alt="Yahya Zekry's Dev Card" align="right" /></a>
 
 <!-- About me section -->
 <h2 align="left">👨🏻‍💻 About Me</h2>
@@ -36,5 +36,14 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="./img/icons/postman.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="./img/icons/react.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<!-- Footer -->
-<img align="center" src="./img/playcode.gif" alt="animated fire" style="width: 50%;height: auto;"/>
+<!-- Projects list -->
+<h2 align="left">🚧 Some of My Projects:</h2>
+<ul>
+<li><a href="https://yahyazekry.github.io/Udacity-Landing-Page/" target="_blank" rel="noreferrer">Udacity: Landing page</a></li>
+<li><a href="https://yahyazekry.github.io/color-flipper/"target="_blank" rel="noreferrer">Simple Color Flipper</a></li>
+<li><a href="https://yahyazekry.github.io/Pig-Game/"target="_blank" rel="noreferrer">Pig Game</a></li>
+<li><a href="https://yahyazekry.github.io/Guess-my-number/"target="_blank" rel="noreferrer">Guess my number </a></li>
+
+<!-- Snake banner -->
+
+![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
