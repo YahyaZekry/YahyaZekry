@@ -22,6 +22,14 @@
 
 - 📝 You can reach me at: "**YahyaZekry@gmail.com**"
 
+<!-- Projects list -->
+<h2 align="left">🚧 Some of My Projects:</h2>
+<ul>
+<li><a href="https://yahyazekry.github.io/Udacity-Landing-Page/" target="_blank" rel="noreferrer">Udacity: Landing page</a></li>
+<li><a href="https://yahyazekry.github.io/color-flipper/"target="_blank" rel="noreferrer">Simple Color Flipper</a></li>
+<li><a href="https://yahyazekry.github.io/Pig-Game/"target="_blank" rel="noreferrer">Pig Game</a></li>
+<li><a href="https://yahyazekry.github.io/Guess-my-number/"target="_blank" rel="noreferrer">Guess my number </a></li>
+
 <!-- Technologies & Tools -->
 <h2 align="left">🔧 Technologies & Tools:</h2>
 <p align="left"> 
@@ -35,15 +43,6 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="./img/icons/nodejs.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="./img/icons/postman.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="./img/icons/react.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<!-- Projects list -->
-<h2 align="left">🚧 Some of My Projects:</h2>
-<ul>
-<li><a href="https://yahyazekry.github.io/Udacity-Landing-Page/" target="_blank" rel="noreferrer">Udacity: Landing page</a></li>
-<li><a href="https://yahyazekry.github.io/color-flipper/"target="_blank" rel="noreferrer">Simple Color Flipper</a></li>
-<li><a href="https://yahyazekry.github.io/Pig-Game/"target="_blank" rel="noreferrer">Pig Game</a></li>
-<li><a href="https://yahyazekry.github.io/Guess-my-number/"target="_blank" rel="noreferrer">Guess my number </a></li>
-
 <!-- Snake banner -->
 
-![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
+<div style="background-color:rgb(34, 39, 46);;">![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)<div>
