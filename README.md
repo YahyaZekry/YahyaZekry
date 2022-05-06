@@ -45,4 +45,5 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="./img/icons/react.svg" alt="react" width="40" height="40"/> </a> </p>
 <!-- Snake banner -->
 
-<div style="background-color:rgb(34, 39, 46);"><img src="https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg"/><div>
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
