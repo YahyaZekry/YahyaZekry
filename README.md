@@ -8,7 +8,7 @@
 
 <!-- Daily.dev Card -->
 
-<a href="https://app.daily.dev/yahyazekry"><img src="https://api.daily.dev/devcards/83925365ac5b4943b2302ba622210e22.png?r=ke1" style="width: 35%;height: auto" alt="Yahya Zekry's Dev Card" align="right" /></a>
+<a href="https://app.daily.dev/yahyazekry"><img src="https://api.daily.dev/devcards/83925365ac5b4943b2302ba622210e22.png?r=ke1" style="width: 40%;height: auto" alt="Yahya Zekry's Dev Card" align="right" /></a>
 
 <!-- About me section -->
 <h2 align="left">👨🏻‍💻 About Me</h2>
@@ -18,7 +18,7 @@
 
 - 💬 Ask me about: **HTML,CSS,JavaScript**.
 
-- 🎯 2022 Goals: To Contribute in Open Source projects.
+- 🎯 2022 Goals: To be a fullstacked.
 
 - 📝 You can reach me at: "**YahyaZekry@gmail.com**"
 
