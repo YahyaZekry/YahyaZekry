@@ -14,11 +14,11 @@
 <h2 align="left">👨🏻‍💻 About Me</h2>
 <h3 align="left">A Meticulous Front-end Developer from Egypt 🇪🇬</h3>
 
-- 📙 I’m currently learning: **MERN-Stack && Vue.js**.
+- 📙 I’m currently learning: REACT
 
 - 💬 Ask me about: **HTML,CSS,JavaScript**.
 
-- 🎯 2022 Goals: To be a fullstacked.
+- 🎯 2022 Goals: Land First Gig.
 
 - 📝 You can reach me at: "**YahyaZekry@gmail.com**"
 
