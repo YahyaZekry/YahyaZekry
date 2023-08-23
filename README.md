@@ -8,16 +8,19 @@
 
 <!-- About me section -->
 <h2 align="left">👨🏻‍💻 About Me</h2>
-<h3 align="left">A Meticulous Front-end Developer from Egypt 🇪🇬</h3>
+<h3 align="left">I am a meticulous React-Developer from Egypt 🇪🇬</h3>
 
-- 📙 I’m currently learning: REACT
+- 📙 Currently learning
+  I am currently focused on expanding my skills in React.
 
-- 💬 Ask me about: **HTML,CSS,JavaScript**.
+- 💬 Expertise
+  I specialize in **HTML**, **CSS**, and **JavaScript**. Feel free to reach out to me if you have any questions or need assistance in these areas.
 
-- 📝 You can reach me at: "**YahyaZekry@gmail.com**"
+- 📫 Contact Me
+  You can reach me at: "YahyaZekry@gmail.com"
 
 <!-- Projects list -->
-<h2 align="left">🚧 Some of My Projects:</h2>
+<h2 align="left">🚀 Notable Projects</h2>
 <ul>
 <li><a href="https://yahyazekry.github.io/Udacity-Landing-Page/" target="_blank" rel="noreferrer">Udacity: Landing page</a></li>
 <li><a href="https://yahyazekry.github.io/color-flipper/"target="_blank" rel="noreferrer">Simple Color Flipper</a></li>
