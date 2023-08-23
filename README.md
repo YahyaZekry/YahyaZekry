@@ -2,13 +2,9 @@
 
 [![Linkedin:Yahya](https://img.shields.io/badge/-Yahya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yahyazekry/)](https://www.linkedin.com/in/yahyazekry/)
 
-<!-- Responsive banner (I made this picture and it's free to use) -->
+<!-- Responsive banner (Created by me and it's free to use) -->
 
 <img src="./img/banner.jpg" alt="Bear sitting with laptop infront of it" style="width: 100%;height: auto"/>
-
-<!-- Daily.dev Card -->
-
-<a href="https://app.daily.dev/yahyazekry"><img src="https://api.daily.dev/devcards/83925365ac5b4943b2302ba622210e22.png?r=ke1" style="width: 40%;height: auto" alt="Yahya Zekry's Dev Card" align="right" /></a>
 
 <!-- About me section -->
 <h2 align="left">👨🏻‍💻 About Me</h2>
@@ -17,8 +13,6 @@
 - 📙 I’m currently learning: REACT
 
 - 💬 Ask me about: **HTML,CSS,JavaScript**.
-
-- 🎯 2022 Goals: Land First Gig.
 
 - 📝 You can reach me at: "**YahyaZekry@gmail.com**"
 
