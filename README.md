@@ -15,13 +15,20 @@
 
 <!-- Projects list -->
 <h2 align="left">🚀 Notable Projects</h2>
+React.Js:
+<ul>
+  <li><a href="https://yahyazekry.github.io/github-searchEngine/" target="_blank" rel="noreferrer">Github SearchEngine</a></li>
+  <li><a href="https://yahyazekry.github.io/eat-n-split/" target="_blank" rel="noreferrer">Eat'n Split</a></li>
+    <li><a href="https://yahyazekry.github.io/travel-list/" target="_blank" rel="noreferrer">Travel List</a></li>
+  <li><a href="https://yahyazekry.github.io/pizza-menu/" target="_blank" rel="noreferrer">The Perfect PizzaPlace</a></li>
+</ul>
+Vanilla Js:
 <ul>
   <li><a href="https://yahyazekry.github.io/Udacity-Landing-Page/" target="_blank" rel="noreferrer">Udacity: Landing page</a></li>
   <li><a href="https://yahyazekry.github.io/color-flipper/" target="_blank" rel="noreferrer">Simple Color Flipper</a></li>
   <li><a href="https://yahyazekry.github.io/Pig-Game/" target="_blank" rel="noreferrer">Pig Game</a></li>
   <li><a href="https://yahyazekry.github.io/Guess-my-number/" target="_blank" rel="noreferrer">Guess my number</a></li>
 </ul>
-
 <!-- Technologies & Tools -->
 <h2 align="left">🔧 Technologies & Tools:</h2>
 <p align="left">JavaScript, TypeScript, Node.js, Redux, Next.js, Material-UI, Sass/SCSS, Tailwind CSS, Semantic-UI, Git</p>
