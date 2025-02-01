@@ -1,28 +1,17 @@
 # Hello there 👋, I'm Yahya!
 
-Systems Engineer Turning Complex Problems into Elegant Solutions | React.js
+React Developer Turning Complex Problems into Elegant Solutions | Systems Engineering
 
 ## 👨🏻‍💻 About Me
 
-I specialize in designing AI frameworks and developing React applications, combining systematic thinking with practical implementation. My unique blend of AI systems engineering and frontend development allows me to create comprehensive solutions for complex problems.
+React Developer and Systems Engineer specializing in AI framework development and responsive web applications. I combine systematic thinking with hands-on coding to transform complex problems into elegant solutions. Experienced in framework architecture, protocol design, and emerging web technologies. My focus is creating efficient, sustainable solutions through clean code and systematic approaches. I build systems that not only function but scale and evolve.
 
-- 🔭 Currently: Developing AI frameworks and expanding React.js expertise
-- 🌱 Learning: Advanced AI system architecture and pattern recognition
-- 💡 Passionate about: Transforming complex systems into practical solutions
+- 🔭 Currently: Expanding React.js expertise and developing AI frameworks
+- 🌱 Learning: Advanced frontend patterns and system architecture
+- 💡 Passionate about: Clean code and systematic solutions
 - 📫 Contact: YahyaZekry@gmail.com
 
 ## 🛠️ Core Competencies
-
-### AI Systems Engineering
-
-- Framework Architecture & Design
-- System Component Organization
-- Protocol Design & Implementation
-- Pattern Recognition Systems
-- Metadata Management
-- XML-Style Markup & Context Management
-- Cross-Reference Systems
-- Protection & Validation Protocols
 
 ### Frontend Development
 
@@ -35,15 +24,16 @@ I specialize in designing AI frameworks and developing React applications, combi
 - Responsive Design
 - Clean Code Practices
 
+### Systems Engineering
+
+- Framework Architecture
+- System Component Design
+- Protocol Implementation
+- Pattern Recognition
+- Metadata Management
+- Protection Protocols
+
 ## 🚀 Completed Projects
-
-### AI Framework
-
-- Transformational Coaching System
-  - Comprehensive AI framework for coaching systems
-  - Advanced protocol management
-  - Systematic tracking and intervention
-  - Protection and recovery systems
 
 ### React Applications
 
@@ -51,6 +41,14 @@ I specialize in designing AI frameworks and developing React applications, combi
 - Travel List
 - Eat'n Split
 - The Perfect PizzaPlace
+
+### AI Framework
+
+- Transformational Coaching System
+  - Comprehensive coaching framework
+  - Protocol management
+  - System tracking
+  - React-based interface
 
 ### Vanilla JavaScript
 
@@ -68,7 +66,7 @@ I specialize in designing AI frameworks and developing React applications, combi
 
 ## 🔧 Technical Skills
 
-### Development
+### Frontend
 
 - JavaScript (ES6+)
 - TypeScript
@@ -79,6 +77,14 @@ I specialize in designing AI frameworks and developing React applications, combi
 - HTML5
 - CSS3
 
+### Styling
+
+- Sass/SCSS
+- Tailwind CSS
+- Material-UI
+- Semantic-UI
+- Responsive Design
+
 ### Tools & Practices
 
 - Git & GitHub
@@ -88,14 +94,6 @@ I specialize in designing AI frameworks and developing React applications, combi
 - Jest
 - NPM
 - Agile/Scrum
-
-### Styling
-
-- Sass/SCSS
-- Tailwind CSS
-- Material-UI
-- Semantic-UI
-- Responsive Design
 
 ### System Design
 
@@ -108,16 +106,13 @@ I specialize in designing AI frameworks and developing React applications, combi
 
 ## 💡 Soft Skills
 
-- Systems Thinking
+- Problem Solving
 - Strategic Planning
-- Complex Problem Decomposition
 - Analytical Thinking
-- Innovation Mindset
-- Cross-functional Collaboration
 - Project Management
+- Team Collaboration
 - Communication
 - Adaptability
-- Research and Analysis
 - Attention to Detail
 
 ## 📊 GitHub Stats
@@ -133,10 +128,10 @@ I specialize in designing AI frameworks and developing React applications, combi
 
 I'm interested in:
 
-- AI System Design Projects
 - React Development
+- Frontend Architecture
+- System Design
 - Complex Problem Solving
-- Framework Architecture
-- System Integration
+- Framework Development
 
 Let's create something amazing together! 🚀
