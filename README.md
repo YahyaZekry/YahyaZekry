@@ -57,12 +57,25 @@ React Developer and Systems Engineer specializing in AI framework development an
 - Pig Game
 - Guess my number
 
-## 🚧 Projects In Progress
+## 🚧 Frameworks In Development
+
+- Front-end Mentor Framework
+  - Systematic frontend development guidance
+  - Structured learning pathways
+  - Progress tracking mechanisms
+- C.E.H Instructor Framework
+  - Ethical hacking instruction system
+  - Guidance protocols
+  - Assessment systems
+- SuperFunctional Training System
+  - Training methodology framework
+  - Progress tracking and metrics
+  - System optimization
+
+## 🚧 Other Projects In Progress
 
 - E-commerce Platform (React, Redux, Node.js)
 - Task Management System (React, Context API)
-- Protocol Management Framework
-- System Integration Architecture
 
 ## 🔧 Technical Skills
 
