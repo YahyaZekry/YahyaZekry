@@ -1,34 +1,142 @@
-<h1 align="left">Hello there 👋, I'm Yahya!</h1>
+# Hello there 👋, I'm Yahya!
 
-[![Linkedin: Yahya](https://img.shields.io/badge/-Yahya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yahyazekry/)](https://www.linkedin.com/in/yahyazekry/)
+Systems Engineer Turning Complex Problems into Elegant Solutions | React.js
 
-<!-- Responsive banner (Created by me and it's free to use) -->
-<img src="./img/banner.jpg" alt="Bear sitting with laptop in front of it" style="width: 100%;height: auto"/>
+## 👨🏻‍💻 About Me
 
-<!-- About me section -->
-<h2 align="left">👨🏻‍💻 About Me</h2>
-<p align="left"> React Developer with a solid understanding of front-end development principles and a passion for creating intuitive user interfaces. Eager to further expand my skills and contribute to dynamic development teams.</p>
+I specialize in designing AI frameworks and developing React applications, combining systematic thinking with practical implementation. My unique blend of AI systems engineering and frontend development allows me to create comprehensive solutions for complex problems.
 
-- 📙 Currently: Focused on expanding my skills in React.js and Redux.
-- 💬 Expertise: JavaScript, HTML, CSS, React.js, Redux. Feel free to reach out to me if you have any questions or need assistance in these areas.
-- 📫 Contact Me: You can reach me at YahyaZekry@gmail.com
+- 🔭 Currently: Developing AI frameworks and expanding React.js expertise
+- 🌱 Learning: Advanced AI system architecture and pattern recognition
+- 💡 Passionate about: Transforming complex systems into practical solutions
+- 📫 Contact: YahyaZekry@gmail.com
 
-<!-- Projects list -->
-<h2 align="left">🚀 Notable Projects</h2>
-React.Js:
-<ul>
-  <li><a href="https://yahyazekry.github.io/github-searchEngine/" target="_blank" rel="noreferrer">Github SearchEngine</a></li>
-  <li><a href="https://yahyazekry.github.io/eat-n-split/" target="_blank" rel="noreferrer">Eat'n Split</a></li>
-    <li><a href="https://yahyazekry.github.io/travel-list/" target="_blank" rel="noreferrer">Travel List</a></li>
-  <li><a href="https://yahyazekry.github.io/pizza-menu/" target="_blank" rel="noreferrer">The Perfect PizzaPlace</a></li>
-</ul>
-Vanilla Js:
-<ul>
-  <li><a href="https://yahyazekry.github.io/Udacity-Landing-Page/" target="_blank" rel="noreferrer">Udacity: Landing page</a></li>
-  <li><a href="https://yahyazekry.github.io/color-flipper/" target="_blank" rel="noreferrer">Simple Color Flipper</a></li>
-  <li><a href="https://yahyazekry.github.io/Pig-Game/" target="_blank" rel="noreferrer">Pig Game</a></li>
-  <li><a href="https://yahyazekry.github.io/Guess-my-number/" target="_blank" rel="noreferrer">Guess my number</a></li>
-</ul>
-<!-- Technologies & Tools -->
-<h2 align="left">🔧 Technologies & Tools:</h2>
-<p align="left">JavaScript, TypeScript, Node.js, Redux, Next.js, Material-UI, Sass/SCSS, Tailwind CSS, Semantic-UI, Git</p>
+## 🛠️ Core Competencies
+
+### AI Systems Engineering
+
+- Framework Architecture & Design
+- System Component Organization
+- Protocol Design & Implementation
+- Pattern Recognition Systems
+- Metadata Management
+- XML-Style Markup & Context Management
+- Cross-Reference Systems
+- Protection & Validation Protocols
+
+### Frontend Development
+
+- React.js & Modern JavaScript
+- Redux & State Management
+- TypeScript
+- Node.js & Next.js
+- RESTful API Integration
+- Component Architecture
+- Responsive Design
+- Clean Code Practices
+
+## 🚀 Completed Projects
+
+### AI Framework
+
+- Transformational Coaching System
+  - Comprehensive AI framework for coaching systems
+  - Advanced protocol management
+  - Systematic tracking and intervention
+  - Protection and recovery systems
+
+### React Applications
+
+- Github SearchEngine
+- Travel List
+- Eat'n Split
+- The Perfect PizzaPlace
+
+### Vanilla JavaScript
+
+- Udacity: Landing page
+- Simple Color Flipper
+- Pig Game
+- Guess my number
+
+## 🚧 Projects In Progress
+
+- E-commerce Platform (React, Redux, Node.js)
+- Task Management System (React, Context API)
+- Protocol Management Framework
+- System Integration Architecture
+
+## 🔧 Technical Skills
+
+### Development
+
+- JavaScript (ES6+)
+- TypeScript
+- React.js
+- Redux
+- Node.js
+- Next.js
+- HTML5
+- CSS3
+
+### Tools & Practices
+
+- Git & GitHub
+- Linux (Mint, KDE Neon)
+- VS Code & Cursor
+- Webpack
+- Jest
+- NPM
+- Agile/Scrum
+
+### Styling
+
+- Sass/SCSS
+- Tailwind CSS
+- Material-UI
+- Semantic-UI
+- Responsive Design
+
+### System Design
+
+- Pattern Recognition
+- System Architecture
+- Process Optimization
+- Technical Documentation
+- API Integration
+- Protection Protocols
+
+## 💡 Soft Skills
+
+- Systems Thinking
+- Strategic Planning
+- Complex Problem Decomposition
+- Analytical Thinking
+- Innovation Mindset
+- Cross-functional Collaboration
+- Project Management
+- Communication
+- Adaptability
+- Research and Analysis
+- Attention to Detail
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YahyaZekry&show_icons=true&theme=radical)
+
+## 🤝 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/yahyazekry/)
+- [Email](mailto:yahyazekry@gmail.com)
+
+## 💼 Open for Opportunities
+
+I'm interested in:
+
+- AI System Design Projects
+- React Development
+- Complex Problem Solving
+- Framework Architecture
+- System Integration
+
+Let's create something amazing together! 🚀
