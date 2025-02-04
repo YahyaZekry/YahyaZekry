@@ -16,22 +16,21 @@ React Developer and Systems Engineer specializing in AI framework development an
 ### Frontend Development
 
 - React.js & Modern JavaScript
-- Redux & State Management
-- TypeScript
-- Node.js & Next.js
-- RESTful API Integration
-- Component Architecture
-- Responsive Design
-- Clean Code Practices
+- Next.js & Redux
+- HTML5/CSS3 & Tailwind CSS
+- GraphQL/REST APIs
+- Single Page Applications
+- Responsive Web Design
+- System Design Patterns
 
 ### Systems Engineering
 
-- Framework Architecture
-- System Component Design
-- Protocol Implementation
+- System Architecture
+- Framework Design
+- Protocol Design
 - Pattern Recognition
-- Metadata Management
-- Protection Protocols
+- Technical Documentation
+- System Design Patterns
 
 ## 🚀 Completed Projects
 
@@ -57,6 +56,11 @@ React Developer and Systems Engineer specializing in AI framework development an
 - Pig Game
 - Guess my number
 
+## 🚧 Web Projects In Progress
+
+- E-commerce Platform (React, Redux, Node.js)
+- Task Management System (React, Context API)
+
 ## 🚧 Frameworks In Development
 
 - Front-end Mentor Framework
@@ -72,11 +76,6 @@ React Developer and Systems Engineer specializing in AI framework development an
   - Progress tracking and metrics
   - System optimization
 
-## 🚧 Other Projects In Progress
-
-- E-commerce Platform (React, Redux, Node.js)
-- Task Management System (React, Context API)
-
 ## 🔧 Technical Skills
 
 ### Frontend
@@ -84,11 +83,11 @@ React Developer and Systems Engineer specializing in AI framework development an
 - JavaScript (ES6+)
 - TypeScript
 - React.js
+- Next.js
 - Redux
 - Node.js
-- Next.js
-- HTML5
-- CSS3
+- GraphQL/REST APIs
+- Postman
 
 ### Styling
 
@@ -108,25 +107,12 @@ React Developer and Systems Engineer specializing in AI framework development an
 - NPM
 - Agile/Scrum
 
-### System Design
-
-- Pattern Recognition
-- System Architecture
-- Process Optimization
-- Technical Documentation
-- API Integration
-- Protection Protocols
-
 ## 💡 Soft Skills
 
 - Problem Solving
-- Strategic Planning
-- Analytical Thinking
-- Project Management
-- Team Collaboration
+- Systems Thinking
 - Communication
-- Adaptability
-- Attention to Detail
+- Team Collaboration
 
 ## 📊 GitHub Stats
 
