@@ -36,19 +36,29 @@ React Developer and Systems Engineer crafting elegant solutions through code. I 
 
 ### 🌟 React Applications
 
-- **Github SearchEngine** - Real-time GitHub profile explorer
-- **Travel List** - Smart travel planning application
-- **The Perfect PizzaPlace** - Interactive food ordering system
-- **Eat'n Split** - Bill splitting application
+- **[Github SearchEngine](https://github.com/YahyaZekry/github-searchEngine)** - React application for exploring GitHub profiles with real-time search functionality and detailed user statistics.
 
-### 🤖 AI Frameworks
+- **[Travel List](https://github.com/YahyaZekry/travel-list)** - Interactive packing list application with sorting and filtering capabilities for travel preparation.
 
-- **NLP Islamic Coach**
+- **[The Perfect Pizza Place](https://github.com/YahyaZekry/pizza-menu)** - Dynamic menu application showcasing React components and state management.
+
+- **[Eat'n Split](https://github.com/YahyaZekry/eat-n-split)** - Bill splitting calculator with friend management system.
+
+### 🤖 AI & Training Frameworks
+
+- **[NLP Islamic Coach](https://github.com/YahyaZekry/NLP-Islamic-Coach)**
+
   - Advanced AI coaching framework using NLP techniques
   - Integration with Claude and GPT models
   - Islamic psychology-based protocols
   - State-of-the-art communication tools
-  - [View Project](https://github.com/YahyaZekry/NLP-Islamic-Coach)
+
+- **[SuperFunctional Training](https://github.com/YahyaZekry/functional_training-framework)**
+  - Comprehensive training methodology framework
+  - Progress tracking and analytics
+  - Systematic approach to functional fitness
+  - Performance optimization protocols
+  - Customizable training templates
 
 ## 🚧 Active Development
 
