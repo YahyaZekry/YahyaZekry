@@ -79,12 +79,6 @@ React Developer and AI Framework Engineer specializing in creating intelligent s
   - AI-driven learning pathways
   - Adaptive progress tracking mechanisms
 
-- **C.E.H Instructor Framework**
-
-  - Comprehensive ethical hacking instruction system
-  - Structured guidance protocols
-  - Assessment systems with adaptive feedback
-
 - **Arabic Grammar Teacher Framework**
   - AI-powered language instruction system
   - Adaptive learning based on proficiency
