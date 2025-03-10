@@ -62,10 +62,11 @@ React Developer and Systems Engineer crafting elegant solutions through code. I 
   - Customizable training templates
 
 - **[R3d.Hacker](https://github.com/YahyaZekry/R3d.hacker)**
-  - Comprehensive ethical hacking instruction system
-  - Advanced assessment protocols
-  - Security methodology framework
-  - Practical exercise templates
+
+  - Ethical hacking mentor framework
+  - Interactive learning with adaptive difficulty modes
+  - Hundreds of practical security challenges
+  - Complete cybersecurity knowledge structure
 
 ## 🚧 Active Development
 
