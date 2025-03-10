@@ -44,7 +44,7 @@ React Developer and Systems Engineer crafting elegant solutions through code. I 
 
 - **[Eat'n Split](https://github.com/YahyaZekry/eat-n-split)** - Bill splitting calculator with friend management system.
 
-### 🤖 AI & Training Frameworks
+### 🤖 AI Frameworks
 
 - **[NLP Islamic Coach](https://github.com/YahyaZekry/NLP-Islamic-Coach)**
 
@@ -54,11 +54,18 @@ React Developer and Systems Engineer crafting elegant solutions through code. I 
   - State-of-the-art communication tools
 
 - **[SuperFunctional Training](https://github.com/YahyaZekry/functional_training-framework)**
+
   - Comprehensive training methodology framework
   - Progress tracking and analytics
   - Systematic approach to functional fitness
   - Performance optimization protocols
   - Customizable training templates
+
+- **[R3d.Hacker](https://github.com/YahyaZekry/R3d.hacker)**
+  - Comprehensive ethical hacking instruction system
+  - Advanced assessment protocols
+  - Security methodology framework
+  - Practical exercise templates
 
 ## 🚧 Active Development
 
@@ -76,16 +83,11 @@ React Developer and Systems Engineer crafting elegant solutions through code. I 
 ### Framework Development
 
 - **Front-end Mentor Framework**
+
   - Systematic learning pathways
   - Progress tracking system
-- **C.E.H Instructor Framework**
 
-  - Ethical hacking instruction
-  - Assessment protocols
-
-- **SuperFunctional Training**
-  - Training methodology
-  - System optimization
+- \*\*Arabic Grammar Teacher Framework
 
 ## 💻 Technical Arsenal
 
