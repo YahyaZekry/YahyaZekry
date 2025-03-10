@@ -4,15 +4,15 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=React+Developer;Systems+Engineer;Framework+Architect)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=React+Developer;AI+Framework+Engineer;Prompt+Engineering+Specialist)](https://git.io/typing-svg)
 
 ## 👨🏻‍💻 About Me
 
-React Developer and Systems Engineer crafting elegant solutions through code. I specialize in AI framework development and responsive web applications, transforming complex challenges into scalable systems.
+React Developer and AI Framework Engineer specializing in creating intelligent systems and responsive web applications. I transform large language models into domain-specific tools through systematic design patterns. Experienced in prompt engineering, AI persona development, and emerging web technologies.
 
 <div align="center">
   
-📱 Expanding React.js expertise  |  🎯 Building AI frameworks  |  💡 Clean Code Enthusiast
+📱 React.js Development  |  🤖 AI Framework Architecture  |  💡 Prompt Engineering
   
 </div>
 
@@ -28,11 +28,36 @@ React Developer and Systems Engineer crafting elegant solutions through code. I 
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![AI](https://img.shields.io/badge/-AI_Engineering-00A67E?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
 ## 🚀 Featured Projects
+
+### 🤖 AI Frameworks
+
+- **[R3d.Hacker](https://github.com/YahyaZekry/R3d.hacker)**
+
+  - Comprehensive AI instruction framework for cybersecurity education
+  - Adaptive learning pathways with multi-tier proficiency levels
+  - Specialized AI persona with consistent communication patterns
+  - Structured knowledge base covering web, network, system, and mobile security
+  - Ethical boundary protocols and instructional methodologies
+
+- **[NLP Islamic Coach](https://github.com/YahyaZekry/NLP-Islamic-Coach)**
+
+  - Advanced AI coaching framework with persona-based guidance
+  - Structured protocols for progress tracking and intervention
+  - Protection mechanisms and ethical boundaries
+  - Integration with Claude and GPT models
+  - Islamic psychology-based knowledge architecture
+
+- **[SuperFunctional Training](https://github.com/YahyaZekry/functional_training-framework)**
+  - Training methodology framework with AI-driven guidance
+  - Adaptive progress metrics and analytics
+  - Systematic approach to functional fitness
+  - Performance optimization protocols
+  - Customizable training templates
 
 ### 🌟 React Applications
 
@@ -44,31 +69,25 @@ React Developer and Systems Engineer crafting elegant solutions through code. I 
 
 - **[Eat'n Split](https://github.com/YahyaZekry/eat-n-split)** - Bill splitting calculator with friend management system.
 
-### 🤖 AI Frameworks
-
-- **[NLP Islamic Coach](https://github.com/YahyaZekry/NLP-Islamic-Coach)**
-
-  - Advanced AI coaching framework using NLP techniques
-  - Integration with Claude and GPT models
-  - Islamic psychology-based protocols
-  - State-of-the-art communication tools
-
-- **[SuperFunctional Training](https://github.com/YahyaZekry/functional_training-framework)**
-
-  - Comprehensive training methodology framework
-  - Progress tracking and analytics
-  - Systematic approach to functional fitness
-  - Performance optimization protocols
-  - Customizable training templates
-
-- **[R3d.Hacker](https://github.com/YahyaZekry/R3d.hacker)**
-
-  - Ethical hacking mentor framework
-  - Interactive learning with adaptive difficulty modes
-  - Hundreds of practical security challenges
-  - Complete cybersecurity knowledge structure
-
 ## 🚧 Active Development
+
+### AI Frameworks In Development
+
+- **Front-end Mentor Framework**
+
+  - Systematic frontend development guidance system
+  - AI-driven learning pathways
+  - Adaptive progress tracking mechanisms
+
+- **C.E.H Instructor Framework**
+
+  - Comprehensive ethical hacking instruction system
+  - Structured guidance protocols
+  - Assessment systems with adaptive feedback
+
+- **Arabic Grammar Teacher Framework**
+  - AI-powered language instruction system
+  - Adaptive learning based on proficiency
 
 ### Web Projects
 
@@ -80,15 +99,6 @@ React Developer and Systems Engineer crafting elegant solutions through code. I 
 - **Task Management System**
   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
   ![Context API](https://img.shields.io/badge/-Context_API-61DAFB?style=flat&logo=react&logoColor=black)
-
-### Framework Development
-
-- **Front-end Mentor Framework**
-
-  - Systematic learning pathways
-  - Progress tracking system
-
-- \*\*Arabic Grammar Teacher Framework
 
 ## 💻 Technical Arsenal
 
@@ -108,13 +118,23 @@ React Developer and Systems Engineer crafting elegant solutions through code. I 
 
 </div>
 
-### Additional Skills
+### AI Engineering Skills
+
+- AI Framework Architecture
+- Prompt Engineering
+- AI Persona Development
+- Multi-modal Instruction Systems
+- Structured Knowledge Base Design
+- Ethical Boundary Protocols
+- LLM Integration & Fine-tuning
+
+### Frontend & System Skills
 
 - System Architecture & Design Patterns
-- Framework Development
-- Protocol Design & Implementation
-- Technical Documentation
+- Single Page Applications
+- Responsive Web Design
 - API Integration
+- Technical Documentation
 - Performance Optimization
 
 ## 📈 GitHub Analytics
