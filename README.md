@@ -1,160 +1,356 @@
-# Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Yahya!
+# Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Yahya
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="./img/banner.jpg" width="100%" />
 </div>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=React+Developer;AI+Framework+Engineer;Prompt+Engineer)](https://git.io/typing-svg)
-
-## 👨🏻‍💻 About Me
-
-React Developer and AI Framework Engineer transforming complex problems into elegant solutions. I specialize in creating intelligent instruction systems and responsive web applications, turning challenges into opportunities through clean code and systematic thinking.
 
 <div align="center">
   
-📱 React & Frontend Expert  |  🤖 AI Framework Architect  |  💡 Clean Code Enthusiast
-  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&background=FFFFFF00&center=true&vCenter=true&width=600&lines=React+Developer+%26+AI+Framework+Engineer;Transforming+LLMs+into+Domain+Systems;Building+Scalable+Full-Stack+Solutions;Architecting+Intelligent+Applications)](https://git.io/typing-svg)
+
 </div>
 
-## 🎯 Expertise
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> About Me
+
+```typescript
+const YahyaZekry = {
+  role: "React Developer & AI Framework Engineer",
+  location: "El-Sheikh Zayed City, Egypt 🇪🇬",
+  currentFocus: "Building intelligent systems & scalable UIs",
+  fuelSource: "Yerba Mate 🧉",
+  passion: "Transforming LLMs into domain-focused solutions",
+
+  techStack: {
+    frontend: [
+      "React",
+      "React Native",
+      "TypeScript",
+      "Next.js",
+      "Tailwind CSS",
+    ],
+    backend: ["Node.js", "Python", "tRPC", "Prisma", "NextAuth.js"],
+    ai: [
+      "LangChain",
+      "Prompt Engineering",
+      "LLM Integration",
+      "Framework Architecture",
+    ],
+    mobile: ["React Native", "Expo"],
+    tools: ["Git", "VS Code", "Webpack", "Jest", "Linux"],
+  },
+
+  dailyRoutine: ["Code", "Yerba Mate", "Architect", "Deploy"],
+  philosophy:
+    "if (bug.exists) { blame.yerbaMate = false; blame.logic = true; }",
+};
+```
 
 <div align="center">
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+🚀 **Powered by Yerba Mate** | 🤖 **Building Tomorrow's AI Solutions** | 💡 **Code. Architect. Deploy.**
 
 </div>
+
+---
+
+## 🎯 What I'm Building
+
+<div align="center">
+  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+</div>
+
+### 🤖 **AI Framework Engineering**
+
+- **Intelligent Instruction Systems** - Building AI frameworks that adapt and learn
+- **Multi-modal AI Integration** - Seamlessly connecting LLMs with real-world applications
+- **Ethical AI Boundaries** - Ensuring responsible AI development and deployment
+
+### 🌐 **Full-Stack Development**
+
+- **React Ecosystems** - Creating scalable, maintainable frontend architectures
+- **T3 Stack Mastery** - Next.js, NextAuth.js, Prisma, tRPC, Tailwind CSS
+- **Type-Safe APIs** - Building robust backend systems with full type safety
+
+---
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Frameworks
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50">
+</div>
 
-- **[R3d.Hacker](https://github.com/YahyaZekry/R3d.hacker)**
+### 🔐 **[R3d.Hacker Framework](https://github.com/YahyaZekry/R3d.hacker)**
 
-  - Comprehensive cybersecurity AI instruction framework
-  - Adaptive learning pathways with multi-tier proficiency levels
-  - Specialized AI persona with consistent communication patterns
-  - Structured knowledge base covering web, network, system, and mobile security
-  - Ethical boundary protocols and instructional methodologies
+> 🎯 **Adaptive Cybersecurity AI Mentor**
 
-- **[NLP Islamic Coach](https://github.com/YahyaZekry/NLP-Islamic-Coach)**
+```yaml
+Tech Stack: Claude/GPT Integration, Markdown KB, Multi-tier Learning
+Features:
+  - Adaptive learning pathways
+  - Ethical boundary enforcement
+  - Progressive skill assessment
+  - Interactive cybersecurity training
+```
 
-  - Advanced AI coaching framework with personalized guidance
-  - Integration with Claude and GPT models
-  - Islamic psychology-based protocols
-  - Structured progress tracking systems
-  - Protection mechanisms and ethical boundaries
+### 🕌 **[NLP Islamic Coach](https://github.com/YahyaZekry/NLP-Islamic-Coach)**
 
-- **[SuperFunctional Training](https://github.com/YahyaZekry/functional_training-framework)**
+> 🌟 **AI-Powered Spiritual Guidance System**
 
-  - Training methodology framework with adaptive metrics
-  - Progress tracking and analytics system
-  - Systematic approach to functional fitness
-  - Performance optimization protocols
-  - Customizable training templates
+```yaml
+Innovation: NLP + Islamic Psychology + Meta-States Methodology
+Components:
+  - Personalized coaching protocols
+  - Transformational interventions
+  - User profiling & progress tracking
+  - Cinema Mind technology integration
+```
 
-### 🌟 React Applications
+### 📚 **[Arabic Grammar Master](https://github.com/YahyaZekry/arabic-grammar-system)**
 
-- **[Github SearchEngine](https://github.com/YahyaZekry/github-searchEngine)** - React application for exploring GitHub profiles with real-time search functionality and detailed user statistics.
+> 🎓 **Intelligent Language Learning Platform**
 
-- **[Travel List](https://github.com/YahyaZekry/travel-list)** - Interactive packing list application with sorting and filtering capabilities for travel preparation.
+```yaml
+Specialization: Quranic Arabic + Classical Grammar
+Features:
+  - Precise Quranic text parsing
+  - Real-time error correction
+  - Integrated Arabic dictionary
+  - Interactive Q&A system
+```
 
-- **[The Perfect Pizza Place](https://github.com/YahyaZekry/pizza-menu)** - Dynamic menu application showcasing React components and state management.
+### 🏋️ **[SuperFunctional Training](https://github.com/YahyaZekry/functional_training-framework)**
 
-- **[Eat'n Split](https://github.com/YahyaZekry/eat-n-split)** - Bill splitting calculator with friend management system.
+> 💪 **SaaS Training Platform** (In Development)
 
-## 🚧 Active Development
+```yaml
+Architecture: T3 Stack (Next.js, NextAuth.js, Prisma, tRPC)
+Current Phase:
+  - Authentication & authorization flows
+  - Database schema design
+  - Type-safe API development
+  - Responsive UI components
+```
 
-### Web Projects
+---
 
-- **E-commerce Platform**
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-  ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+## 🌟 React Showcase
 
-- **Task Management System**
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-  ![Context API](https://img.shields.io/badge/-Context_API-61DAFB?style=flat&logo=react&logoColor=black)
+<table>
+<tr>
+<td width="50%">
 
-### AI Framework Development
+### 🔍 **[GitHub SearchEngine](https://github.com/YahyaZekry/github-searchEngine)**
 
-- **Front-end Mentor Framework**
+Real-time GitHub profile explorer with advanced search capabilities and user analytics.
 
-  - Systematic frontend development guidance system
-  - Structured learning pathways
-  - Progress tracking mechanisms
+**Tech:** React, REST API, Pagination, Real-time Search
 
-- **Arabic Grammar Teacher Framework**
-  - Comprehensive Arabic language instruction system
-  - Adaptive feedback protocols
-  - Personalized learning experience
+</td>
+<td width="50%">
 
-## 💻 Technical Arsenal
+### ✈️ **[Travel List](https://github.com/YahyaZekry/travel-list)**
 
-### Frontend Technologies
+Smart packing list manager with drag-and-drop functionality and local persistence.
+
+**Tech:** React, LocalStorage, State Management, UX Design
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🍕 **[Perfect Pizza Place](https://github.com/YahyaZekry/pizza-menu)**
+
+Dynamic restaurant ordering system with real-time updates and responsive design.
+
+**Tech:** React, State Management, Component Architecture
+
+</td>
+<td width="50%">
+
+### 💰 **[Eat'n Split](https://github.com/YahyaZekry/eat-n-split)**
+
+Intelligent bill-splitting calculator with multi-currency support and tip suggestions.
+
+**Tech:** React, Math Calculations, Friend Management System
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+### **Frontend Development**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+### **Styling & UI Libraries**
+
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive-Design-blue?style=for-the-badge)
+![WCAG](https://img.shields.io/badge/WCAG-2.1_AA-green?style=for-the-badge)
+
+### **Backend & Full-Stack**
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NextAuth.js](https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
+![tRPC](https://img.shields.io/badge/tRPC-398CCB?style=for-the-badge&logo=trpc&logoColor=white)
+
+### **APIs & Data**
+
+![REST API](https://img.shields.io/badge/REST-API-02569B?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+
+### **AI & Machine Learning**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-FF6B35?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-purple?style=for-the-badge)
+![LLM Integration](https://img.shields.io/badge/LLM-Integration-darkgreen?style=for-the-badge)
+![AI Framework](https://img.shields.io/badge/AI-Framework_Design-orange?style=for-the-badge)
+
+### **Development Tools & Practices**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078d4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+
+### **Testing & Build Tools**
+
+![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-239120?style=for-the-badge)
+
+### **Methodologies & Practices**
+
+![Agile](https://img.shields.io/badge/Agile-239120?style=for-the-badge)
+![Scrum](https://img.shields.io/badge/SCRUM-6DB33F?style=for-the-badge)
+![Clean Code](https://img.shields.io/badge/Clean-Code-blue?style=for-the-badge)
+![Type Safety](https://img.shields.io/badge/Type-Safety-red?style=for-the-badge)
 
 </div>
 
-### AI Engineering Skills
+---
 
-- AI Framework Architecture & Prompt Engineering
-- Multi-modal Instruction Systems
-- AI Persona Development
-- Structured Knowledge Base Design
-- Ethical Boundary Implementation
-- LLM Integration & Optimization
-
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YahyaZekry&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YahyaZekry&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YahyaZekry&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YahyaZekry&layout=compact&langs_count=8&theme=tokyonight&border_radius=10"/>
 </div>
 
-## 🛠️ Tools & Technologies
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YahyaZekry&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
+</div>
 
-### Development
+---
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
-### Design
-
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white)
-
-## 🤝 Connect With Me
+## 🎯 Current Focus
 
 <div align="center">
   
+```mermaid
+graph TD
+    A[🧉 Yerba Mate] --> B[💻 Code Quality]
+    B --> C[🤖 AI Integration]
+    C --> D[🚀 Innovation]
+    D --> E[🌟 Impact]
+    E --> A
+    
+    style A fill:#91C7AC
+    style B fill:#6B9BD2
+    style C fill:#9B7EDE
+    style D fill:#F093FB
+    style E fill:#F5576C
+```
+
+</div>
+
+### 🔥 **Active Development**
+
+🚧 **SuperFunctional Training SaaS** - Full-stack training platform with T3 Stack  
+🤖 **Frontend Mentor AI Framework** - Systematic web development guidance system  
+📚 **Arabic Grammar Teacher AI** - Comprehensive language instruction framework  
+🎨 **Component Library v2** - Advanced React components with TypeScript
+
+### 🎯 **Learning Path**
+
+🌱 **Currently Exploring:** Advanced AI architectures, Serverless deployment, Web3 integration  
+📖 **Reading:** Clean Architecture, System Design, AI Safety protocols  
+🎓 **Next Goals:** AWS Solutions Architect, Advanced TypeScript patterns
+
+---
+
+## ☕ Fun Facts
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+</div>
+
+- 🧉 **Yerba Mate Enthusiast** - My coding fuel of choice! Traditional Argentine style preferred
+- 🌍 **Located in Egypt** but building solutions for the global community
+- 🎯 **Perfectionist** - Believe in clean code and elegant solutions
+- 📚 **Continuous Learner** - Always exploring new technologies and methodologies
+- 🤝 **Collaboration Lover** - Open source contributor and team player
+- 🎨 **Design Conscious** - Care deeply about UX/UI and accessibility
+- ⚡ **Fast Learner** - Adapt quickly to new frameworks and technologies
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahyazekry/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yahyazekry@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yahyazekry@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YahyaZekry)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
+
+</div>
+
+<div align="center">
+  
+### 💬 **"Great software is built by people who care about the craft"**
+
+**Available for freelance projects and collaboration opportunities!**  
+Let's build something amazing together! 🚀
 
 </div>
 
 ---
 
 <div align="center">
-Let's create something amazing together! 🚀
+  <img src="https://komarev.com/ghpvc/?username=YahyaZekry&color=667eea&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  
+  <br><br>
+  
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  
+  **⭐ Star my repositories if you find them useful!**
+  
 </div>
