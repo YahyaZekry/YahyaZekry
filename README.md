@@ -15,7 +15,7 @@
 ```typescript
 const YahyaZekry = {
   role: "React Developer & AI Framework Engineer",
-  location: "El-Sheikh Zayed City, Egypt 🇪🇬",
+  location: "Egypt 🇪🇬",
   currentFocus: "Building intelligent systems & scalable UIs",
   fuelSource: "Yerba Mate 🧉",
   passion: "Transforming LLMs into domain-focused solutions",
@@ -282,7 +282,7 @@ graph TD
     D --> E[🌟 Impact]
     E --> A
     
-    style A fill:#91C7AC
+    style A fill:#05a42f
     style B fill:#6B9BD2
     style C fill:#9B7EDE
     style D fill:#F093FB
