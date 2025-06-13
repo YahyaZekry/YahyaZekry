@@ -1,16 +1,16 @@
-# Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Yahya
+# Hello there! 👋 I'm Yahya
 
 <div align="center">
-  <img src="./img/banner.jpg" width="100%" />
+  <img src="./img/banner.jpg" width="100%" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);" />
 </div>
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&background=FFFFFF00&center=true&vCenter=true&width=600&lines=React+Developer+%26+AI+Framework+Engineer;Transforming+LLMs+into+Domain+Systems;Building+Scalable+Full-Stack+Solutions;Architecting+Intelligent+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF6B35&background=FFFFFF00&center=true&vCenter=true&width=700&lines=React+Developer+%26+AI+Framework+Engineer;Transforming+LLMs+into+Domain+Systems;Building+Scalable+Full-Stack+Solutions;Architecting+Intelligent+Applications)](https://git.io/typing-svg)
 
 </div>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> About Me
+## 👨‍💻 About Me
 
 ```typescript
 const YahyaZekry = {
@@ -47,7 +47,7 @@ const YahyaZekry = {
 
 <div align="center">
 
-🚀 **Powered by Yerba Mate** | 🤖 **Building Tomorrow's AI Solutions** | 💡 **Code. Architect. Deploy.**
+🚀 **Fueled by Yerba Mate** | 🧉 **Code, Sip, Repeat** | 💡 **Design. Debug. Deploy.**
 
 </div>
 
@@ -83,7 +83,7 @@ const YahyaZekry = {
 ## 🚀 Featured Projects
 
 <div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50">
+  ✨
 </div>
 
 ### 🔐 **[R3d.Hacker Framework](https://github.com/YahyaZekry/R3d.hacker)**
@@ -195,7 +195,7 @@ Intelligent bill-splitting calculator with multi-currency support and tip sugges
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+![Expo](https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=%23D04A37)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -260,12 +260,12 @@ Intelligent bill-splitting calculator with multi-currency support and tip sugges
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YahyaZekry&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YahyaZekry&layout=compact&langs_count=8&theme=tokyonight&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YahyaZekry&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_radius=15&bg_color=0D1117&text_color=C9D1D9&icon_color=FF6B35&title_color=FF6B35"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YahyaZekry&layout=compact&langs_count=8&theme=dark&border_radius=15&bg_color=0D1117&text_color=C9D1D9&title_color=FF6B35"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YahyaZekry&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YahyaZekry&theme=dark&border_radius=15&background=0D1117&ring=FF6B35&fire=FF6B35&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -309,7 +309,7 @@ graph TD
 ## ☕ Fun Facts
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+  ✨
 </div>
 
 - 🧉 **Yerba Mate Enthusiast** - My coding fuel of choice! Traditional Argentine style preferred
@@ -330,27 +330,19 @@ graph TD
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yahyazekry@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YahyaZekry)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
+<a href="https://buymeacoffee.com/yahyazekry" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 217px !important;" ></a>
 
 </div>
 
 <div align="center">
   
-### 💬 **"Great software is built by people who care about the craft"**
+### 💬 **"With enough Yerba Mate, any bug is fixable."**
 
 **Available for freelance projects and collaboration opportunities!**  
 Let's build something amazing together! 🚀
 
+**⭐ Star my repositories if you find them useful!**
+
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YahyaZekry&color=667eea&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-  
-  <br><br>
-  
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  
-  **⭐ Star my repositories if you find them useful!**
-  
-</div>
