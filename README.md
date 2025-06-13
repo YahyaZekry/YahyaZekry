@@ -42,6 +42,8 @@ const YahyaZekry = {
   dailyRoutine: ["Code", "Yerba Mate", "Architect", "Deploy"],
   philosophy:
     "if (bug.exists) { blame.yerbaMate = false; blame.logic = true; }",
+  makerMindset:
+    "I enjoy crafting tools to solve challenges, and it's rewarding when they help others. Fueled by Yerba Mate, I continue developing and sharing these solutions for the community, empowering users.",
 };
 ```
 
@@ -306,37 +308,42 @@ Intelligent bill-splitting calculator with multi-currency support and tip sugges
 
 ## 🎯 Current Focus
 
-<div align="center" style="margin-top: 10px; margin-bottom: 10px;">
+<div align="center" style="margin-top: 10px; margin-bottom: 20px;">
   
 ```mermaid
-graph TD
-    A[🧉 Yerba Mate] --> B[💻 Code Quality]
-    B --> C[🤖 AI Integration]
-    C --> D[🚀 Innovation]
-    D --> E[🌟 Impact]
-    E --> A
-    
-    style A fill:#05a42f,stroke:#333,stroke-width:2px
-    style B fill:#6B9BD2,stroke:#333,stroke-width:2px
-    style C fill:#9B7EDE,stroke:#333,stroke-width:2px
-    style D fill:#F093FB,stroke:#333,stroke-width:2px
-    style E fill:#F5576C,stroke:#333,stroke-width:2px
+graph LR
+    subgraph "Development Cycle"
+        direction LR
+        A[💡 Learn New Tech] --> B(🚀 Build Cool Stuff)
+        B --> C{📢 Share with Community}
+        C --> A
+    end
+
+    D[🧉 Yerba Mate] -.-> A
+    D -.-> B
+    D -.-> C
+
+    style A fill:#6B9BD2,stroke:#20232A,stroke-width:2px,color:#fff
+    style B fill:#9B7EDE,stroke:#20232A,stroke-width:2px,color:#fff
+    style C fill:#F093FB,stroke:#20232A,stroke-width:2px,color:#fff
+    style D fill:#05a42f,stroke:#20232A,stroke-width:3px,color:#fff,stroke-dasharray: 5 5,font-weight:bold
+
 ```
 
 </div>
 
 ### 🔥 **Active Development**
 
-🚧 **SuperFunctional Training SaaS** - Full-stack training platform with T3 Stack  
-📱 **Habit Tracker App** - Mobile app for building positive habits (React Native, Expo)  
-🤖 **Frontend Mentor AI Framework** - Systematic web development guidance system  
-📚 **Arabic Grammar Teacher AI** - Comprehensive language instruction framework  
+🚧 **SuperFunctional Training SaaS** - Full-stack training platform with T3 Stack
+📱 **Habit Tracker App** - Mobile app for building positive habits (React Native, Expo)
+🤖 **Frontend Mentor AI Framework** - Systematic web development guidance system
+📚 **Arabic Grammar Teacher AI** - Comprehensive language instruction framework
 🎨 **Component Library v2** - Advanced React components with TypeScript
 
 ### 🎯 **Learning Path**
 
-🌱 **Currently Exploring:** Advanced AI architectures, Serverless deployment, Web3 integration  
-📖 **Reading:** Clean Architecture, System Design, AI Safety protocols  
+🌱 **Currently Exploring:** Advanced AI architectures, Serverless deployment, Web3 integration
+📖 **Reading:** Clean Architecture, System Design, AI Safety protocols
 🎓 **Next Goals:** AWS Solutions Architect, Advanced TypeScript patterns
 
 ---
@@ -368,16 +375,13 @@ graph TD
 
 <div align="center" style="margin-top: 15px; margin-bottom: 15px;">
   <a href="https://buymeacoffee.com/yahyazekry" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 217px !important;" ></a>
-  <p style="margin-top: 5px; font-size: 0.9em; color: #C9D1D9;">
-    <i>I had fun making tools to work around problems I faced—never imagined they'd help others, but they have. That encouraged me to keep developing and sharing them. Now, with a little yerba mate to keep me company, I work on these tools for the benefit of all. People are in control.</i>
-  </p>
 </div>
 
 <div align="center" style="margin-top: 10px; margin-bottom: 10px;">
-  
+
 ### 💬 **"With enough Yerba Mate, any bug is fixable."**
 
-**Available for freelance projects and collaboration opportunities!**  
+**Available for freelance projects and collaboration opportunities!**
 Let's build something amazing together! 🚀
 
 </div>
@@ -389,3 +393,4 @@ Let's build something amazing together! 🚀
   <br><br>
   <p style="font-size: 0.9em; color: #C9D1D9;"><i>If you find my work helpful, consider starring a repo or two!</i> ✨</p>
 </div>
+```
