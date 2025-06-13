@@ -4,7 +4,7 @@
   <img src="./img/banner.jpg" width="100%" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);" />
 </div>
 
-<div align="center">
+<div align="center" style="margin-top: 15px; margin-bottom: 15px;">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF6B35&background=FFFFFF00&center=true&vCenter=true&width=700&lines=React+Developer+%26+AI+Framework+Engineer;Transforming+LLMs+into+Domain+Systems;Building+Scalable+Full-Stack+Solutions;Architecting+Intelligent+Applications)](https://git.io/typing-svg)
 
@@ -36,7 +36,7 @@ const YahyaZekry = {
       "Framework Architecture",
     ],
     mobile: ["React Native", "Expo"],
-    tools: ["Git", "VS Code", "Webpack", "Jest", "Linux"],
+    tools: ["Git", "VS Code", "Webpack", "Jest", "Linux", "Bash", "Conky"],
   },
 
   dailyRoutine: ["Code", "Yerba Mate", "Architect", "Deploy"],
@@ -45,7 +45,7 @@ const YahyaZekry = {
 };
 ```
 
-<div align="center">
+<div align="center" style="margin-top: 10px; margin-bottom: 10px;">
 
 🚀 **Fueled by Yerba Mate** | 🧉 **Code, Sip, Repeat** | 💡 **Design. Debug. Deploy.**
 
@@ -55,7 +55,7 @@ const YahyaZekry = {
 
 ## 🎯 What I'm Building
 
-<div align="center">
+<div align="center" style="margin-top: 10px; margin-bottom: 10px;">
   
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -82,7 +82,7 @@ const YahyaZekry = {
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<div align="center" style="margin-top: 10px; margin-bottom: 10px;">
   ✨
 </div>
 
@@ -140,11 +140,37 @@ Current Phase:
 
 ---
 
+## 💡 My Creations
+
+A couple of tools I've built to solve problems and share with the community:
+
+<br>
+
+<details>
+<summary><strong>📊 Internet Usage Monitor (Bash, Conky)</strong></summary>
+<br>
+A shell-based utility for Linux to track and display internet data consumption in real-time, featuring a customizable Conky widget and usage notifications. Auto-detects network interfaces and supports daily limits.
+<p align="right" style="margin-top: 5px;"><a href="https://github.com/YahyaZekry/internet-usage-monitor" target="_blank">View on GitHub ➔</a></p>
+</details>
+
+<br>
+
+<details>
+<summary><strong>🎨 Obsidian Mermaid to Excalidraw (TypeScript, Obsidian API)</strong></summary>
+<br>
+An Obsidian plugin that converts Mermaid.js diagram code blocks into fully editable Excalidraw drawings, preserving text labels and supporting various diagram types. Features bulk conversion and seamless Excalidraw plugin integration.
+<p align="right" style="margin-top: 5px;"><a href="https://github.com/YahyaZekry/obsidian-mermaid-to-excalidraw" target="_blank">View on GitHub ➔</a></p>
+</details>
+
+<br>
+
+---
+
 ## 🌟 React Showcase
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" style="padding: 10px;">
 
 ### 🔍 **[GitHub SearchEngine](https://github.com/YahyaZekry/github-searchEngine)**
 
@@ -153,7 +179,7 @@ Real-time GitHub profile explorer with advanced search capabilities and user ana
 **Tech:** React, REST API, Pagination, Real-time Search
 
 </td>
-<td width="50%">
+<td width="50%" style="padding: 10px;">
 
 ### ✈️ **[Travel List](https://github.com/YahyaZekry/travel-list)**
 
@@ -164,7 +190,7 @@ Smart packing list manager with drag-and-drop functionality and local persistenc
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" style="padding: 10px;">
 
 ### 🍕 **[Perfect Pizza Place](https://github.com/YahyaZekry/pizza-menu)**
 
@@ -173,7 +199,7 @@ Dynamic restaurant ordering system with real-time updates and responsive design.
 **Tech:** React, State Management, Component Architecture
 
 </td>
-<td width="50%">
+<td width="50%" style="padding: 10px;">
 
 ### 💰 **[Eat'n Split](https://github.com/YahyaZekry/eat-n-split)**
 
@@ -189,7 +215,7 @@ Intelligent bill-splitting calculator with multi-currency support and tip sugges
 
 ## 🛠️ Tech Arsenal
 
-<div align="center">
+<div align="center" style="margin-top: 10px; margin-bottom: 10px;">
 
 ### **Frontend Development**
 
@@ -239,11 +265,19 @@ Intelligent bill-splitting calculator with multi-currency support and tip sugges
 ![VS Code](https://img.shields.io/badge/VS_Code-0078d4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Conky](https://img.shields.io/badge/Conky-007ACC?style=for-the-badge&logo=conky&logoColor=white)
+![Cron](https://img.shields.io/badge/Cron-000000?style=for-the-badge&logo=cron&logoColor=white)
+![Systemd](https://img.shields.io/badge/Systemd-20232A?style=for-the-badge&logo=systemd&logoColor=white)
+![Obsidian Plugin Dev](https://img.shields.io/badge/Obsidian-Plugin_Dev-4D4D4D?style=for-the-badge&logo=obsidian&logoColor=white)
+![Mermaid.js](https://img.shields.io/badge/Mermaid.js-FF6B35?style=for-the-badge&logo=mermaid&logoColor=white)
+![Excalidraw API](https://img.shields.io/badge/Excalidraw-API-6B9BD2?style=for-the-badge&logo=excalidraw&logoColor=white)
 
 ### **Testing & Build Tools**
 
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![esbuild](https://img.shields.io/badge/esbuild-FFCF00?style=for-the-badge&logo=esbuild&logoColor=black)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-239120?style=for-the-badge)
 
 ### **Methodologies & Practices**
@@ -259,12 +293,12 @@ Intelligent bill-splitting calculator with multi-currency support and tip sugges
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<div align="center" style="margin-top: 10px; margin-bottom: 10px;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YahyaZekry&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_radius=15&bg_color=0D1117&text_color=C9D1D9&icon_color=FF6B35&title_color=FF6B35"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YahyaZekry&layout=compact&langs_count=8&theme=dark&border_radius=15&bg_color=0D1117&text_color=C9D1D9&title_color=FF6B35"/>
 </div>
 
-<div align="center">
+<div align="center" style="margin-bottom: 10px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YahyaZekry&theme=dark&border_radius=15&background=0D1117&ring=FF6B35&fire=FF6B35&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak"/>
 </div>
 
@@ -272,7 +306,7 @@ Intelligent bill-splitting calculator with multi-currency support and tip sugges
 
 ## 🎯 Current Focus
 
-<div align="center">
+<div align="center" style="margin-top: 10px; margin-bottom: 10px;">
   
 ```mermaid
 graph TD
@@ -282,11 +316,11 @@ graph TD
     D --> E[🌟 Impact]
     E --> A
     
-    style A fill:#05a42f
-    style B fill:#6B9BD2
-    style C fill:#9B7EDE
-    style D fill:#F093FB
-    style E fill:#F5576C
+    style A fill:#05a42f,stroke:#333,stroke-width:2px
+    style B fill:#6B9BD2,stroke:#333,stroke-width:2px
+    style C fill:#9B7EDE,stroke:#333,stroke-width:2px
+    style D fill:#F093FB,stroke:#333,stroke-width:2px
+    style E fill:#F5576C,stroke:#333,stroke-width:2px
 ```
 
 </div>
@@ -294,6 +328,7 @@ graph TD
 ### 🔥 **Active Development**
 
 🚧 **SuperFunctional Training SaaS** - Full-stack training platform with T3 Stack  
+📱 **Habit Tracker App** - Mobile app for building positive habits (React Native, Expo)  
 🤖 **Frontend Mentor AI Framework** - Systematic web development guidance system  
 📚 **Arabic Grammar Teacher AI** - Comprehensive language instruction framework  
 🎨 **Component Library v2** - Advanced React components with TypeScript
@@ -308,7 +343,7 @@ graph TD
 
 ## ☕ Fun Facts
 
-<div align="center">
+<div align="center" style="margin-top: 10px; margin-bottom: 10px;">
   ✨
 </div>
 
@@ -324,25 +359,33 @@ graph TD
 
 ## 🤝 Let's Connect!
 
-<div align="center">
+<div align="center" style="margin-top: 10px; margin-bottom: 10px;">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahyazekry/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yahyazekry@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YahyaZekry)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
-<a href="https://buymeacoffee.com/yahyazekry" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 217px !important;" ></a>
 
 </div>
 
-<div align="center">
+<div align="center" style="margin-top: 15px; margin-bottom: 15px;">
+  <a href="https://buymeacoffee.com/yahyazekry" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 217px !important;" ></a>
+  <p style="margin-top: 5px; font-size: 0.9em; color: #C9D1D9;">
+    <i>I had fun making tools to work around problems I faced—never imagined they'd help others, but they have. That encouraged me to keep developing and sharing them. Now, with a little yerba mate to keep me company, I work on these tools for the benefit of all. People are in control.</i>
+  </p>
+</div>
+
+<div align="center" style="margin-top: 10px; margin-bottom: 10px;">
   
 ### 💬 **"With enough Yerba Mate, any bug is fixable."**
 
 **Available for freelance projects and collaboration opportunities!**  
 Let's build something amazing together! 🚀
 
-**⭐ Star my repositories if you find them useful!**
-
 </div>
 
 ---
+
+<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
+  <img src="https://komarev.com/ghpvc/?username=YahyaZekry&color=FF6B35&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <br><br>
+  <p style="font-size: 0.9em; color: #C9D1D9;"><i>If you find my work helpful, consider starring a repo or two!</i> ✨</p>
+</div>
