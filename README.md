@@ -6,7 +6,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=3000&pause=1200&color=2D3748&center=true&width=500&lines=React+%26+AI+Framework+Engineer;Cross-Platform+Applications;System+Architecture;Intelligent+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=3000&pause=1200&color=62789c&center=true&width=500&lines=React+%26+AI+Framework+Engineer;Cross-Platform+Applications;System+Architecture;Intelligent+Solutions)](https://git.io/typing-svg)
 
 **Yahya Zekry** • Software Engineer • Egypt  
 _Fueled by yerba mate, built with bear-like strength_ 🧉
