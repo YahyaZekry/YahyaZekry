@@ -1,7 +1,7 @@
 # The Bear Code 🐻
 
 <div align="center">
-  <img src="./img/banner.jpg" width="100%" style="border-radius: 8px;" />
+  <img src="./img/banner.png" width="100%" style="border-radius: 8px;" />
 </div>
 
 <div align="center">
